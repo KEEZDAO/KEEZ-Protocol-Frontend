@@ -2,7 +2,7 @@
 
 KEEZ Protocol, powered by KEEZ DAO, allows individuals to create a DAO using a Universal Profile (UP). Through the smart contract based tools provided by LUKSO, we are able to entirely reinvent how DAOs onboard members, participate in governance, and manage their operation. Our mission is to create DAOs built on UPs that are viable as organizations of the future.
 
-Visit the KEEZ Protocol website [here](https://www.keezprotocol.io/)
+Visit the KEEZ Protocol website [here](https://www.keezprotocol.io/).
 
 ## Team Members 
 
