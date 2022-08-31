@@ -22,7 +22,7 @@ const Features = () => {
                         <GiLightBulb color="white" fontSize="4em"/>
                     </div>
                     <h1 className="text-xl text-center font-semibold pb-5 pt-2 text-black">Propose</h1>
-                    DAOs can onabord members and provide them permissions. One of 
+                    DAOs can onboard members and provide them permissions. One of 
                     those permissions includes the ability to create proposals 
                     for the DAO they are a member of. On the DAOs Profile Page, 
                     a member with the Propose Permission can create proposals 

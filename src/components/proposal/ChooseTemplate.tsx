@@ -61,7 +61,7 @@ const ChooseTemplate = (props: { handleComponent: any }) => {
         <div className="py-2 ">
           <div className="flex justify-between items-center">
             <h1 className="text-white text-4xl ">
-              Choose a DAO to create a proposal for
+              Select a Proposal Template
             </h1>
             <button
               type="button"
@@ -84,7 +84,7 @@ const ChooseTemplate = (props: { handleComponent: any }) => {
             className="block text-white text-lg pb-4 font-normal"
             htmlFor="daoName"
           >
-            You have permission to create proposals for the following DAOs
+            
           </label>
           <div className="grid gap-4 xl:grid-cols-2 md:grid-cols-1 text-white m-5 md:mx-20">
             <div
